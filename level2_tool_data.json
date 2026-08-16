@@ -2687,8 +2687,8 @@
      },
      {
       "code": "O39",
-      "role": "determinative",
-      "label": "stone, brick",
+      "role": "uncertain",
+      "label": "stone, brick (function unclear here; not phonetically needed)",
       "glyph": "𓊌"
      },
      {
@@ -6676,9 +6676,12 @@
     "signs": [
      {
       "code": "M15",
-      "role": "determinative",
-      "label": "papyrus , watery regions",
-      "glyph": "𓇇"
+      "role": "phonetic",
+      "glyph": "𓇇",
+      "value": "mḥ",
+      "literals": 2,
+      "literal_word": "biliteral",
+      "redundant": false
      },
      {
       "code": "M17",
@@ -6692,7 +6695,7 @@
      {
       "code": "M17",
       "role": "phonetic",
-      "value": "j",
+      "value": "y",
       "literals": 1,
       "literal_word": "uniliteral",
       "redundant": false,
@@ -8032,8 +8035,8 @@
     "signs": [
      {
       "code": "R5",
-      "role": "determinative",
-      "label": "fumigate",
+      "role": "uncertain",
+      "label": "narrow censer (does not resolve the word's k/a sounds; no supporting reading found)",
       "glyph": "𓊶"
      },
      {
@@ -11686,9 +11689,12 @@
     "signs": [
      {
       "code": "D56",
-      "role": "determinative",
+      "role": "phonetic",
       "glyph": "𓂾",
-      "label": "leg, foot 'act of foot'"
+      "value": "wꜥrt",
+      "literals": 4,
+      "literal_word": "quadriliteral",
+      "redundant": false
      },
      {
       "code": "X1",
@@ -11696,7 +11702,7 @@
       "value": "t",
       "literals": 1,
       "literal_word": "uniliteral",
-      "redundant": false,
+      "redundant": true,
       "glyph": "𓏏"
      },
      {
@@ -11782,14 +11788,17 @@
       "value": "ḥ",
       "literals": 1,
       "literal_word": "uniliteral",
-      "redundant": false,
+      "redundant": true,
       "glyph": "𓎛"
      },
      {
       "code": "M2",
-      "role": "determinative",
-      "label": "plant, flower",
-      "glyph": "𓆰"
+      "role": "phonetic",
+      "glyph": "𓆰",
+      "value": "ḥn",
+      "literals": 2,
+      "literal_word": "biliteral",
+      "redundant": false
      },
      {
       "code": "N35",
@@ -12324,8 +12333,8 @@
     "signs": [
      {
       "code": "T14",
-      "role": "determinative",
-      "label": "throw-stick, throw, create, foreign",
+      "role": "uncertain",
+      "label": "throw-stick (does not resolve the word's remaining sounds; no supporting reading found)",
       "glyph": "𓌙"
      },
      {
@@ -13354,14 +13363,17 @@
       "value": "j",
       "literals": 1,
       "literal_word": "uniliteral",
-      "redundant": false,
+      "redundant": true,
       "glyph": "𓇋"
      },
      {
       "code": "D4",
-      "role": "determinative",
-      "label": "action of the eye",
-      "glyph": "𓁹"
+      "role": "phonetic",
+      "glyph": "𓁹",
+      "value": "ir",
+      "literals": 2,
+      "literal_word": "biliteral",
+      "redundant": false
      },
      {
       "code": "G4",
